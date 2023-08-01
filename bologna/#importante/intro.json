@@ -1,0 +1,23 @@
+{
+    "title": "Benvenuto sul server Bologna!",
+    "description": "Il server dedicato alle notizie in diretta da Bologna.",
+    "color": 10197915,
+    "fields": [
+      {
+        "name": "🤔 **Come lo si usa?**",
+        "value": "\nTroverai due canali\n "
+      },
+      {
+        "name": "📰・notizie",
+        "value": "Dove vengono mostrate le notizie più recenti e dove si possono commentare attraverso l'utilizzo dei thread."
+      },
+      {
+        "name": "💬・discussione",
+        "value": "Chat ausiliaria dove il tema è aperto.\n\n"
+      },
+      {
+        "name": "🙄 E infine!",
+        "value": "Non dimenticarti di leggere le regole che troverai sotto.\n "
+      }
+    ]
+  }
