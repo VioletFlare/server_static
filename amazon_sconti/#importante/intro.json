@@ -1,0 +1,27 @@
+{
+    "title": "Benvenuto sul server Amazon Sconti!",
+    "description": "Il server dedicato agli sconti ecommerce.",
+    "color": 10197915,
+    "fields": [
+      {
+        "name": "🤔 **Come lo si usa?**",
+        "value": "\nPer ogni sezione, troverai un'insieme di canali.\n "
+      },
+      {
+        "name": "🔥・hot",
+        "value": "Dove vengono postati gli sconti più scottanti. Spesso Amazon si sbaglia, e qui appariranno gli sconti di 100%."
+      },
+      {
+        "name": "🎁・sconti",
+        "value": "Dove vengono mostrati altri sconti."
+      },
+      {
+        "name": "💬・discussione",
+        "value": "Chat ausiliaria dove il tema è aperto.\n\n"
+      },
+      {
+        "name": "🙄 E infine!",
+        "value": "Non dimenticarti di leggere le regole che troverai sotto.\n "
+      }
+    ]
+  }
