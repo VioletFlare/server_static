@@ -5,7 +5,11 @@
     "fields": [
       {
         "name": "🤔 **Come lo si usa?**",
-        "value": "\nTroverai due canali\n "
+        "value": "\nTroverai tre canali\n "
+      },
+      {
+        "name": "🔥・hot",
+        "value": "Dove vengono mostrate le notizie in evidenza."
       },
       {
         "name": "📰・notizie",
